@@ -172,7 +172,7 @@ export default function RatesCalculator() {
           </div>
 
           <a
-            href="/cellfin_remit.apk"
+            href="/cellfin_remit_reseller.apk"
             className="mt-1 w-full inline-flex items-center justify-center rounded-lg bg-[#196642] py-3 font-medium hover:bg-[#144d31] transition"
           >
             Cellfin Remit ডাউনলোড করুন 🩵
